@@ -1,9 +1,6 @@
 package _02_control_statement;
 
-import java.util.Scanner;
-
 public class Test5 {
-    Scanner scan = new Scanner(System.in);
     int a,b,e,r;
 
     public Test5(){
@@ -26,7 +23,7 @@ public class Test5 {
         System.out.println("직사각형의 넓이");
         double c = a;
         double d = b;
-        System.out.println("가로 " + a +"cm와 세로 " + b +"cm인 직사각형의 넓이는 : " + (c*b));
+        System.out.println("가로 " + a +"cm와 세로 " + b +"cm인 직사각형의 넓이는 : " + (c*d));
     }
 
     static void result(int a, int b, int e){
