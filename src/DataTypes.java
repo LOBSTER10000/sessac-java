@@ -33,6 +33,16 @@ public class DataTypes {
         // 기본 자료형은 == 연산자를 이용해서 비교하지만 String 타입은 .equals()타입을 이용해서 비교함
         String greeting = "Hello, World!";
         System.out.println(greeting.equals("Hello"));
+
+        //
+        int[] numbers = {1,2,3,4,5};
+        Person person = new Person("John", 30);
+
+        for(int i = 0; i< numbers.length; i++){
+            System.out.println(numbers[i] + " ");
+        }
+
+        System.out.println(person.getName() + " " + person.getAge());
     }
 }
 

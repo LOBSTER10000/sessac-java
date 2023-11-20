@@ -9,5 +9,6 @@ public class SessacPro01 {
         int age = scan.nextInt();
         System.out.println("안녕하세요 " + name+"님! " + "(" + age +"세)");
 
+        scan.close();
     }
 }
