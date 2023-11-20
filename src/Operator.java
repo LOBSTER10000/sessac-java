@@ -56,7 +56,7 @@ public class Operator {
         boolean l = true;
         System.out.println("논리 연산자");
         System.out.println(j && k); // and는 모두 참이어야 true
-        System.out.println(k || k);
+        System.out.println(k || k); //
         System.out.println(!j);
         
         // 삼항 연잔사
