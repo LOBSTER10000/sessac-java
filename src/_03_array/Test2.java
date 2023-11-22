@@ -1,12 +1,13 @@
 package _03_array;
 
 import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 public class Test2 {
 
     public static void main(String[] args){
-        ArrayList<String> arr1 = new ArrayList<>();
+        List<String> arr1 = new ArrayList<>();
         Scanner scan = new Scanner(System.in);
 
         boolean run = true;
