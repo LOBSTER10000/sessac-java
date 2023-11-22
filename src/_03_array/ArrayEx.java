@@ -118,5 +118,18 @@ public class ArrayEx {
             }
             System.out.println();
         }
+
+        // 3차원 배열 생성 / 초기화
+        int[][][] threeArray = {{{1,2},{3,4}},{{5,6},{7,8}}};
+        System.out.println("threeArray : ");
+        for(int i =0; i < threeArray.length; i++){
+            for(int j= 0; j < threeArray[i].length; j++){
+               for(int k =0; k< threeArray[i][j].length; k++){
+                   System.out.println(threeArray[i][j][k] + " ");
+               }
+                System.out.println();
+            }
+            System.out.println();
+        }
     }
 }

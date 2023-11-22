@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f01f30f7-40a8-4aee-8685-4e0b3871cc79" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_02_control_statement/MethodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_array/ArrayEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_array/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_array/Test2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_02_control_statement/Test5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_control_statement/Test5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_03_array/ArrayEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_array/ArrayEx.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +74,7 @@
       <workItem from="1700467691552" duration="57000" />
       <workItem from="1700467764192" duration="83000" />
       <workItem from="1700467864744" duration="7568000" />
-      <workItem from="1700627742565" duration="6069000" />
+      <workItem from="1700627742565" duration="6444000" />
     </task>
     <servers />
   </component>
