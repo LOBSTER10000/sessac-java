@@ -27,10 +27,6 @@ public class Test1 {
             }
         }
 
-        System.out.println("rectangle의 인스턴스 개수 : " + rect.size());
-
-
-
-
+        System.out.println("------ 인스턴스의 개수는 : " + rect.size());
     }
 }

@@ -5,11 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f01f30f7-40a8-4aee-8685-4e0b3871cc79" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_04_class/Rectangles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_04_class/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_04_class/StudentEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_04_class/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04_class/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04_class/CalculatorEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04_class/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04_class/Const.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04_class/ConstEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04_class/Develop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04_class/FinalVariableEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04_class/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04_class/_05_pack05/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04_class/_05_pack05/SingletonEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_04_class/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_class/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_04_class/StudentEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_class/StudentEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_04_class/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_class/Test1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +88,7 @@
       <workItem from="1700467764192" duration="83000" />
       <workItem from="1700467864744" duration="7568000" />
       <workItem from="1700627742565" duration="23638000" />
-      <workItem from="1700799819413" duration="5552000" />
+      <workItem from="1700799819413" duration="12242000" />
     </task>
     <servers />
   </component>
