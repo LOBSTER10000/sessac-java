@@ -10,6 +10,7 @@ public class Test2 {
 
         System.out.printf("원의 반지름은 ? ");
         circle.setR(scan.nextInt());
+        System.out.println("원의 반지름 : " + circle.getR());
         circle.calculateArea();
         scan.close();
     }
