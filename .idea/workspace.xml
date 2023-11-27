@@ -5,21 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f01f30f7-40a8-4aee-8685-4e0b3871cc79" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_05_interface/CdPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_05_interface/InterfaceEx01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_05_interface/InterfaceEx02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_05_interface/InterfaceEx03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_05_interface/Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_05_interface/Mp3Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_05_interface/Music.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_05_interface/RemoteControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_05_interface/Speaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_05_interface/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_05_test/Airplane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_05_test/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_05_test/Flyable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_05_test/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_05_test/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_collections/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_collections/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_collections/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_collections/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_collections/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_generic/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_generic/Pair.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +52,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="_06_generic" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="sessac-java" />
@@ -93,7 +90,7 @@
       <workItem from="1700627742565" duration="23638000" />
       <workItem from="1700799819413" duration="20958000" />
       <workItem from="1701064613975" duration="96000" />
-      <workItem from="1701064818023" duration="5716000" />
+      <workItem from="1701064818023" duration="14063000" />
     </task>
     <servers />
   </component>
