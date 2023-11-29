@@ -15,22 +15,25 @@ public class Test2 {
             int age;
             System.out.println("이름 : ");
             name = scan.next();
-            System.out.println("나이 : ");
-            age = scan.nextInt();
-            if(name == "종료"){
+
+            if(name.equals("종료")){
                 System.out.println("종료합니다");
                 run = false;
-            }
-            else if (map.containsKey(name)){
-                System.out.println("중복되는 값이 있습니다");
-                map.replace(name, age);
-            }
-            else {
-                System.out.println("저장합니다");
-                map.put(name,age);
+            } else {
+                System.out.println("나이 : ");
+                age = scan.nextInt();
+                if(map.containsKey(name)){
+                    map.replace(name,age);
+                }
+                else {
+                    map.put(name,age);
+                }
             }
         }
 
-        System.out.println(map);
+        map.forEach((k,v)->{
+            System.out.println("이름 : " + k + ", 나이 : " + v);
+        });
+
     }
 }

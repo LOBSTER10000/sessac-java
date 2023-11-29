@@ -1,11 +1,13 @@
 package _06_collections;
 
 import java.util.HashSet;
+import java.util.Iterator;
 import java.util.Scanner;
+import java.util.Set;
 
 public class Test1 {
     public static void main(String[] args){
-        HashSet<Integer> h1 = new HashSet<>();
+        Set<Integer> h1 = new HashSet<>();
         Boolean run = true;
         Scanner scan = new Scanner(System.in);
 
