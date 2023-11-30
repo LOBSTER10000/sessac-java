@@ -24,6 +24,6 @@ public class Test1 {
             }
         }
 
-        System.out.println(h1);
+        System.out.println("중복 제거된 정수 목록 : " + h1);
     }
 }
