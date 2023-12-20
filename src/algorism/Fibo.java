@@ -61,13 +61,6 @@ public class Fibo {
         }
     }
 
-    public static boolean 리스트(int a){
-        List<Integer> list = new ArrayList<>();
-        for(int i =0; i < 10; i++){
-            list.add((int)(Math.random() *10) +1);
-        }
-        
-    }
     public static void main(String[] args){
         System.out.println(factorial1(5));
         System.out.println(factorial2(5));
