@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f01f30f7-40a8-4aee-8685-4e0b3871cc79" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_07_Data_Structure/PlushEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorism/Fibo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/lee/Desktop/이동규/sessac-java",
+    "last_opened_file_path": "C:/Users/lee/Desktop/sessac-java",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -99,6 +100,7 @@
       <workItem from="1701501867931" duration="6456000" />
       <workItem from="1701663339866" duration="197000" />
       <workItem from="1701670915484" duration="879000" />
+      <workItem from="1703058014699" duration="3353000" />
     </task>
     <servers />
   </component>
