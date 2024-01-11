@@ -61,12 +61,16 @@ public class Fibo {
         }
     }
 
+    public static int 최소공배수(int i, int y){
+        return i*y / 최대공약수(i,y);
+    }
     public static void main(String[] args){
         System.out.println(factorial1(5));
         System.out.println(factorial2(5));
         System.out.println(최대공약수(20,40));
         System.out.println(배수합());
         System.out.println(피보나치(15));
+        System.out.println(최소공배수(15,20));
 
 
     }
