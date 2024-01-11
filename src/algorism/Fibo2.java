@@ -67,5 +67,46 @@ public class Fibo2 {
         System.out.println(피보나치(10));
         System.out.println(팩토리얼(6));
         System.out.println(팩토리얼2(10));
+
+
+        for(int i = 0; i < 5; i++){
+            for(int j = 0; j< 5; j++){
+                if(i-j == 0){
+                    System.out.print("S");
+                }
+                else {
+                    System.out.print("s");
+                }
+            }
+            System.out.println("");
+        }
+        for(int i = 1; i < 5; i++){
+            for(int j = 0; j < 5; j++){
+                if(i+j == 4){
+                    System.out.print("S");
+                }
+                else {
+                    System.out.print("s");
+                }
+            }
+            System.out.println("");
+        }
+
+        for(int i = 1; i < 10; i++){
+            System.out.println(i + "단");
+            for(int j= 1; j < 10; j++){
+                System.out.println(i + "x" + j + "=" + i*j);
+            }
+        }
+
+        for(int i = 3; i<4; i++){
+            for(int j = 1; j<9; j++){
+                if(!(i*j%4 == 0)){
+                    System.out.println(i*j);
+                }
+            }
+        }
+
+        
     }
 }
