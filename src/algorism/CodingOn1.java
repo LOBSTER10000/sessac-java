@@ -34,6 +34,22 @@ public class CodingOn1 {
         }
         return result;
     }
+
+    public static int gdc(int x, int y){
+        int tmp = 0;
+        if(x < y){
+            tmp = x;
+            x = y;
+            y = tmp;
+        }
+
+        if(x%y == 0){
+            return y;
+        }
+        else {
+            return gdc(x, x%y);
+        }
+    }
     public static void main(String[] args){
         int[] nums1 = {2,5,8,3,7};
         System.out.println(sumLessThan(nums1, 5));
@@ -46,5 +62,7 @@ public class CodingOn1 {
         int[] nums = {3,4,5,6,7,8,0,1,2};
         int target = 0;
         System.out.println(search(nums, target));
+
+        System.out.println(gdc(10,20));
     }
 }
