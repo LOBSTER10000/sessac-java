@@ -50,6 +50,15 @@ public class CodingOn1 {
             return gdc(x, x%y);
         }
     }
+
+    public static int factorial(int x){
+        if (x == 0) {
+            return 1;
+        }
+        else{
+            return x * factorial(x-1);
+        }
+    }
     public static void main(String[] args){
         int[] nums1 = {2,5,8,3,7};
         System.out.println(sumLessThan(nums1, 5));
@@ -64,5 +73,6 @@ public class CodingOn1 {
         System.out.println(search(nums, target));
 
         System.out.println(gdc(10,20));
+        System.out.println(factorial(3));
     }
 }
